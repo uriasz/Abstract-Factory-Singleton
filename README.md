@@ -1,1 +1,0 @@
-# Abstract-Factory-Singleton
