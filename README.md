@@ -1,3 +1,5 @@
+![69c0db24e0654a9b960604f94ac1c766-ezgif com-resize](https://github.com/user-attachments/assets/641e2ad7-cad7-417a-80bc-7ea085bc56dd)
+
 # LawOffice - Sistema de Geração de Documentos Jurídicos
 
 Este projeto Java demonstra a aplicação de padrões de projeto como **Abstract Factory** e **Singleton** para a criação e gerenciamento de documentos jurídicos para pessoas físicas e jurídicas. Além disso, utiliza o `java.util.logging` para registro das operações e o **JUnit 5** para testes unitários, garantindo a robustez e a manutenção do sistema.
