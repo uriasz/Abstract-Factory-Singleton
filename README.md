@@ -176,6 +176,11 @@ mvn test
 
 ---
 
+### ✩₊⁺✧ Diagrama de classes
+![Imagem do WhatsApp de 2025-03-24 à(s) 12 34 49_bb064a81](https://github.com/user-attachments/assets/6d798ff4-1d67-4c93-8181-a31a102b3dd3)
+
+---
+
 ### ☾⋆⁺₊✧ Considerações Finais
 Este projeto é um exemplo prático de como implementar padrões de projeto para desenvolver um código modular, reutilizável e de fácil manutenção. A separação das responsabilidades (geração de documentos e logging) possibilita expansões futuras, como a inclusão de novos tipos de documentos ou alterações no mecanismo de log. A cobertura de testes unitários fortalece a robustez e a confiabilidade do sistema, tornando-o adequado para ambientes de produção.
 
