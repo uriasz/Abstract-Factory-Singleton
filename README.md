@@ -19,6 +19,7 @@ Este projeto Java demonstra a aplicação de padrões de projeto como **Abstract
   - [Classe Principal `LawOffice`](#classe-principal-lawoffice)
 - [Testes Unitários](#testes-unit%C3%A1rios)
 - [Como Executar](#como-executar)
+- [Diagrama de classes](#Diagrama-de-classes)
 - [Considerações Finais](#considera%C3%A7%C3%B5es-finais)
 
 ---
